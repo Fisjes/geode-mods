@@ -1,0 +1,15 @@
+{
+    "commit-author": "Fisjes",
+    "platforms": [
+        "windows"
+    ],
+    "mod": {
+        "download": "https://github.com/Fisjes/gdisiajones/releases/download/v1.0.0/patricia.practice-startpos.geode",
+        "hash": "71f64089ef3cbf5c7e561173a01ba34d2a7c6b57b3c1c5ba968d77461a5fe971"
+    },
+    "tags": [
+        "practice",
+        "editor",
+        "utility"
+    ]
+}

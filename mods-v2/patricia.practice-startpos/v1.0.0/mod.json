@@ -1,0 +1,11 @@
+{
+    "geode": "5.7.1",
+    "gd": {
+        "win": "2.2081"
+    },
+    "id": "patricia.practice-startpos",
+    "name": "gdisiajones",
+    "version": "v1.0.0",
+    "developer": "patricia",
+    "description": "Enter practice mode and press C to drop a startpos at your current position. Exit the editor to apply. The startpositions will all be saved with the correct gamemode, speed, and mini toggle."
+}
